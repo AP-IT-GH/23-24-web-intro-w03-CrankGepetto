@@ -4,8 +4,8 @@
 
 ### `index.html` maken
 
-- [ ] Maak een nieuw bestand genaamd `index.html` aan in deze map.
-- [ ] Open het bestand.
+- [x] Maak een nieuw bestand genaamd `index.html` aan in deze map.
+- [x] Open het bestand.
 - [ ] Voeg de [Bootstrap meta-informatie](/README.md) toe aan je `head`-element om Bootstrap te kunnen gebruiken.
 
 ### voorbeeld namaken
